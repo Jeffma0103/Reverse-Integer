@@ -1,4 +1,4 @@
-# Reverse-Integer
+# Reverse-Integer (medium)
 Solution of  Reverse Integer
 
 ## 題目 https://leetcode.com/problems/reverse-integer/description/
